@@ -1,0 +1,6 @@
+@startuml Use case
+:Admin: -> (Create category)
+:Admin: -> (Update category)
+:Admin: -> (Delete category)
+:Admin: -> (Consult categories)
+@enduml
