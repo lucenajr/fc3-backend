@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest';
 import { Category } from './category';
 
-describe('Category Tests', () => {
+describe('Category Unit Tests', () => {
     test('Test constructor category', () => {
         const category = new Category('Movie')
 

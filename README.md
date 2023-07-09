@@ -19,5 +19,11 @@ For production don't use the user root, this case we use node.
 
 ``
 
+Tests
+
+- Unit
+- Service (Integration)
+- UI (End-To-End)
+
 Docker
 Jest (Unity, Integration and end-to-end)
